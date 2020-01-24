@@ -66,105 +66,105 @@
         "title": "Video 1",
         "description": "This is Video 1",
         "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video1.jpg",
-        "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video1.mp4",
+        "videoURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
         "categories": "Category1,Category2,Category3,Category4,Category5"
       },
     "037a0f89-7c50-4bba-9738-2e775aeab048": {
       "title": "Video 2",
       "description": "This is Video 2",
       "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video2.jpg",
-      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video2.mp4",
+      "videoURL": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
       "categories": "Category2,Category3,Category4,Category5,Category6"
     },
     "70517ec9-052c-4f20-83c1-aa41974508b8": {
       "title": "Video 3",
       "description": "This is Video 3",
       "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video3.jpg",
-      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video3.mp4",
+      "videoURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "categories": "Category3,Category4,Category5"
     },
     "53dd78a7-bd45-4f80-a91c-62f682e8da60": {
       "title": "Video 4",
       "description": "This is Video 4",
       "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video4.jpg",
-      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video4.mp4",
+      "videoURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
       "categories": "Category4,Category5,Category6"
     },
     "2e793145-d0fc-46a5-a192-d2397b7ca50f": {
       "title": "Video 5",
       "description": "This is Video 5",
       "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video5.jpg",
-      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video5.mp4",
+      "videoURL": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
       "categories": "Category1,Category2"
     },
     "7bd0c8af-b6cf-45d7-934f-d55ca007f856": {
       "title": "Video 6",
       "description": "This is Video 6",
       "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video6.jpg",
-      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video6.mp4",
+      "videoURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
       "categories": "Category1,Category2"
     },
     "bc44db16-0c4c-481f-9ecb-1cf9557a1b1a": {
       "title": "Video 7",
       "description": "This is Video 7",
       "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video7.jpg",
-      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video7.mp4",
+      "videoURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
       "categories": "Category1,Category2"
     },
     "7ddfc9f2-71d5-4b1d-9aa4-46cf0db089d1": {
       "title": "Video 8",
       "description": "This is Video 8",
       "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video8.jpg",
-      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video8.mp4",
+      "videoURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
       "categories": "Category1,Category2"
     },
     "f34a8e64-1f57-4c2d-865a-37b5e89fd006": {
       "title": "Video 9",
       "description": "This is Video 9",
       "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video9.jpg",
-      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video9.mp4",
+      "videoURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
       "categories": "Category1,Category2"
     },
     "be651e23-9fd1-428e-8a7f-7c0c8c9fe149": {
       "title": "Video 10",
       "description": "This is Video 10",
       "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video10.jpg",
-      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video10.mp4",
+      "videoURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
       "categories": "Category1,Category2"
     },
     "9e59d8cd-9d99-444a-beac-5523862ced50": {
       "title": "Video 11",
       "description": "This is Video 11",
       "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video11.jpg",
-      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video11.mp4",
+      "videoURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
       "categories": "Category1,Category2"
     },
     "ea93c38e-b73a-48e1-b889-ae421df62a32": {
       "title": "Video 12",
       "description": "This is Video 12",
       "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video12.jpg",
-      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video12.mp4",
+      "videoURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
       "categories": "Category1,Category2"
     },
     "dd871655-0a74-4cf4-af89-3e05fc6d09a7": {
       "title": "Video 13",
       "description": "This is Video 13",
       "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video13.jpg",
-      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video13.mp4",
+      "videoURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
       "categories": "Category1,Category2"
     },
     "497ba5e8-8ddf-49d3-8966-025a25de31d6": {
       "title": "Video 14",
       "description": "This is Video 14",
       "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video14.jpg",
-      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video14.mp4",
+      "videoURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
       "categories": "Category1,Category2"
     },
     "6b6311de-c760-4158-a591-531ce661c3d0": {
       "title": "Video 15",
       "description": "This is Video 15",
       "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video15.jpg",
-      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video15.mp4",
+      "videoURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
       "categories": "Category1,Category2"
     }
   }
