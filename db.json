@@ -45,6 +45,7 @@
           "Category15": {
             "image": "https://cdn.kutuki.in/AndroidTest/CategoryIcons/Category15.jpg"
   },
+}
     "videos": {
       "Video1": {
         "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video1.jpg",
@@ -120,7 +121,6 @@
       "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video15.jpg",
       "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video15.mp4",
       "category": "Category1,Category2",
-       }
-     }
-   }
+    }
+  }
 }
