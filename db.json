@@ -1,0 +1,125 @@
+{
+      "videoCategories": {
+          "Category1": {
+            "image": "https://cdn.kutuki.in/AndroidTest/CategoryIcons/Category1.jpg"
+          },
+          "Category2": {
+            "image": "https://cdn.kutuki.in/AndroidTest/CategoryIcons/Category2.jpg"
+          },
+          "Category3": {
+            "image": "https://cdn.kutuki.in/AndroidTest/CategoryIcons/Category3.jpg"
+          },
+          "Category4": {
+            "image": "https://cdn.kutuki.in/AndroidTest/CategoryIcons/Category4.jpg"
+          },
+          "Category5": {
+            "image": "https://cdn.kutuki.in/AndroidTest/CategoryIcons/Category5.jpg"
+          },
+          "Category6": {
+            "image": "https://cdn.kutuki.in/AndroidTest/CategoryIcons/Category6.jpg"
+          },
+          "Category7": {
+            "image": "https://cdn.kutuki.in/AndroidTest/CategoryIcons/Category7.jpg"
+          },
+          "Category8": {
+            "image": "https://cdn.kutuki.in/AndroidTest/CategoryIcons/Category8.jpg"
+          },
+          "Category9": {
+            "image": "https://cdn.kutuki.in/AndroidTest/CategoryIcons/Category9.jpg"
+          },
+          "Category10": {
+            "image": "https://cdn.kutuki.in/AndroidTest/CategoryIcons/Category10.jpg"
+          },
+          "Category11": {
+            "image": "https://cdn.kutuki.in/AndroidTest/CategoryIcons/Category11.jpg"
+          },
+          "Category12": {
+            "image": "https://cdn.kutuki.in/AndroidTest/CategoryIcons/Category12.jpg"
+          },
+          "Category13": {
+            "image": "https://cdn.kutuki.in/AndroidTest/CategoryIcons/Category13.jpg"
+          },
+          "Category14": {
+            "image": "https://cdn.kutuki.in/AndroidTest/CategoryIcons/Category14.jpg"
+          },
+          "Category15": {
+            "image": "https://cdn.kutuki.in/AndroidTest/CategoryIcons/Category15.jpg"
+  },
+    "videos": {
+      "Video1": {
+        "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video1.jpg",
+        "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video1.mp4",
+        "category": "Category1,Category2,Category3,Category4,Category5",
+      },
+    "Video2": {
+      "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video2.jpg",
+      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video2.mp4",
+      "category": "Category2,Category3,Category4,Category5,Category6",
+    },
+    "Video3": {
+      "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video3.jpg",
+      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video3.mp4",
+      "category": "Category3,Category4,Category5",
+    },
+    "Video4": {
+      "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video4.jpg",
+      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video4.mp4",
+      "category": "Category4,Category5,Category6",
+    },
+    "Video5": {
+      "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video5.jpg",
+      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video5.mp4",
+      "category": "Category1,Category2",
+    },
+    "Video6": {
+      "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video6.jpg",
+      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video6.mp4",
+      "category": "Category1,Category2",
+    },
+    "Video7": {
+      "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video7.jpg",
+      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video7.mp4",
+      "category": "Category1,Category2",
+    },
+    "Video8": {
+      "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video8.jpg",
+      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video8.mp4",
+      "category": "Category1,Category2",
+    },
+    "Video9": {
+      "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video9.jpg",
+      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video9.mp4",
+      "category": "Category1,Category2",
+    },
+    "Video10": {
+      "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video10.jpg",
+      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video10.mp4",
+      "category": "Category1,Category2",
+    },
+    "Video11": {
+      "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video11.jpg",
+      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video11.mp4",
+      "category": "Category1,Category2",
+    },
+    "Video12": {
+      "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video12.jpg",
+      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video12.mp4",
+      "category": "Category1,Category2",
+    },
+    "Video13": {
+      "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video13.jpg",
+      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video13.mp4",
+      "category": "Category1,Category2",
+    },
+    "Video14": {
+      "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video14.jpg",
+      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video14.mp4",
+      "category": "Category1,Category2",
+    },
+    "Video15": {
+      "thumbnailURL": "https://cdn.kutuki.in/AndroidTest/Thumbnails/Video15.jpg",
+      "videoURL": "https://cdn.kutuki.in/AndroidTest/Videos/Video15.mp4",
+      "category": "Category1,Category2",
+    }
+  }
+}
